@@ -20,3 +20,6 @@ Below is a description of the main code elements of the project:
  
  **CodeT5** - https://drive.google.com/drive/folders/1ljowu88BbfhrIymmUDSY_u52w6TnWiZv?usp=sharing  
  **GPT-2** - https://drive.google.com/file/d/1XW1Od9L-5l9zXl1HUCyER5pS9zQTbIvU/view?usp=sharing
+
+## Data
+As described above, the data used for this project is the APPS dataset as described in Hendrycks et al., 2021. The dataset can be retrieved from https://people.eecs.berkeley.edu/~hendrycks/APPS.tar.gz
